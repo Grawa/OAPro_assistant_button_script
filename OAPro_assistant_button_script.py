@@ -9,4 +9,4 @@ while True:
         keyboard.press("m")
         print("google assistant triggered!")
         sleep(0.30)
-        keyboard.release("shift+m")
+        keyboard.release("m")
